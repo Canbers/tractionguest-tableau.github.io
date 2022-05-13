@@ -1,1 +1,3 @@
 theme: jekyll-theme-slate
+title: Traction Guest Tableau WDC
+description: Proof of concept Web Data Connector to integrate the Traction Guest API v3 with Tableau.
